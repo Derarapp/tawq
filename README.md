@@ -1,2 +1,2 @@
 # tawq
-Multisite system for universities and colleges ( academic use ) 
+Multi-site system for universities and colleges ( academic use ) 
